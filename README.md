@@ -6,13 +6,7 @@ Bu Python projesi ile iki sayı arasında toplama, çıkarma, çarpma ve bölme 
 
 - Toplama, çıkarma, çarpma ve bölme işlemleri
 - Sıfıra bölme kontrolü
-- Kullanıcı dostu terminal arayüzü
-
-## Kullanım
-
-```bash
-python hesap_makinesi.py
-```
+- Basit terminal arayüzü
 
 ## Not
 
